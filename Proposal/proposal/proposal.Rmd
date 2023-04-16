@@ -1,0 +1,78 @@
+---
+title: "Does the Post September 11th Attack and the Greater Middle East Project Have an Effect on the Freedom Index?"
+author: 
+  - Kılıçkaya, Volkan[^1]
+bibliography: ../bibliography/biblio.bib
+csl: ../csl/apa.csl
+header-includes:
+  - \usepackage{polyglossia}
+  - \setmainlanguage{english}
+  - \usepackage{booktabs}
+  - \usepackage{caption} 
+  - \captionsetup[table]{skip=10pt}
+output:
+  bookdown::pdf_document2:
+    fig_caption: yes
+    fig_height: 3
+    fig_width: 4
+    keep_tex: no
+    latex_engine: xelatex
+    number_sections: yes
+    toc: no
+geometry: margin=1in
+link-citations: yes
+urlcolor: blue
+fontsize: 12pt
+biblio-style: apalike
+---
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(cache = FALSE, echo = TRUE, message = FALSE, warning = FALSE)
+```
+
+<!-- ======================================================================= -->
+<!-- ============================== FOOTNOTES ============================== -->
+<!-- ======================================================================= -->
+[^1]: 20080493, [Github Repo](https://github.com/VolkanKilickaya/MidTerm1.git)
+
+# Important Information About Midterm
+
+\colorbox{BurntOrange}{WRITE YOUR GITHUB REPO LINK ON LINE 35 IN THIS FILE!}
+
+**Project Proposal submisson will be done by uploading a zip file to the ekampus system along with the Github repo link. If you do not upload a zip file to the system and do not provide a Github repo link, you will be deemed not to have entered the midterm and final exams.**
+
+**You must upload your project folder (`YourStudentID.zip` file) to *ekampus.ankara.edu.tr* until 16 April 2023, 23:59.**
+
+\colorbox{WildStrawberry}{Read the README.md file in the project folder for more information.}
+
+# Introduction
+This outline has been created to assist you in writing your project assignment. You should cite all the sources you use, articles, presentations, projects, etc. Quoting and referencing gives readers the opportunity to access the resources you refer. **Even though you use your own words, if you are conveying the ideas of others in your work, you have to document the source of these ideas. Otherwise, you are committing academic plagiarism.** For example, you can refer to @abramowitz:2018 for academic writing rules. You can find lots of online resources on this topic.
+
+The sections in your project assignment must necessarily include the sections in this text (except the first section, of course). Apart from the sections used here, you can use different subsections. When writing your project, use this file as a draft and adapt its content to your purposes.
+
+In this section, mention the purpose and importance of your work in a few paragraphs.
+
+Question: Does the Post September 11th Attack and the Greater Middle East Project Have an Effect on the Freedom Index?
+
+The September 11th attacks and the Greater Middle East Project (GMEP) had significant effects on the freedom index worldwide. Following the September 11th attacks, many countries showed a tendency to restrict freedoms under the guise of combating terrorism. This led to a decline in freedoms worldwide.
+
+For example, laws such as the Patriot Act were enacted in the US and criticized by human rights advocates. Similarly, the increase in anti-terrorism laws and surveillance measures in Europe also had a negative impact on the freedom index.
+
+The GMEP was an initiative launched by the US to promote democracy, stability, and counterterrorism in the Middle East. However, this project was criticized by some because it led to interventionist approaches in some countries and human rights violations.
+
+Therefore, the freedom index worldwide generally declined after the September 11th attacks and GMEP. However, the restriction and limitation of freedoms is not limited to these events.
+
+
+## Literature Review
+
+In this section, discuss the articles you have read on the subject by giving references. This is a narrative citation @repucci:2022. This one is a parenthetical citation [@puddington:2016]. **Do not summarize each article individually under a separate title.** In the literature review section, **at least four** articles must be cited [@abramowitz:2018; @puddington:2016; @repucci:2022; @aghekyan:2015].
+
+This article discusses the decline in the global freedom index as a result of many countries around the world, mostly in the Far East and the Middle East, showing a tendency to restrict freedoms under the pretext of combating terrorism following the September 11th attacks and the Greater Middle East Project. Therefore, the article takes into account the situations of countries in the freedom index separately by year. The World Freedom Index has been calculated for over a quarter of a century. A noticeable decline in the index is observed as a result of a comparison of the pre-and post-September 11th attacks and the Greater Middle East Project. Factors such as the struggle of countries against terrorist organizations such as al-Qaeda, according to the US Government, and the interference of countries in the internal affairs of other countries as a result of terrorist attacks can be cited as reasons for this decline. The decline in the global freedom index is increasingly trending upwards. The article also discusses the declining situations that arise as a result of countries' own internal policies.
+
+**References section is created automatically by Rmarkdown. There is no need to change the references section in the draft file.**
+
+**_You shouldn't delete the last 3 lines. Those lines are required for References section._**
+
+\newpage
+# References {#references}
+<div id="refs"></div>
+
